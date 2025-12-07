@@ -26,7 +26,7 @@ Crie um arquivo .env na raiz com:
 
 env
 
-PRODUCT_URL=[...](https://www.nike.com.br/camisa-nike-brasil-i-2024-25-torcedor-pro-masculina-028564.html?cor=0L)
+PRODUCT_URL=https://www.nike.com.br/camisa-nike-brasil-i-2024-25-torcedor-pro-masculina-028564.html?cor=0L
 
 TARGET_PRICE=350.00
 
