@@ -23,14 +23,21 @@ Instale as dependências:
 
 pip install -r requirements.txt
 Crie um arquivo .env na raiz com:
+
 env
 
-PRODUCT_URL=...
+PRODUCT_URL=[...](https://www.nike.com.br/camisa-nike-brasil-i-2024-25-torcedor-pro-masculina-028564.html?cor=0L)
+
 TARGET_PRICE=350.00
+
 EMAIL_HOST=smtp.gmail.com
+
 EMAIL_PORT=465
+
 EMAIL_USER=seu_email@gmail.com
+
 EMAIL_PASS=sua_senha_de_app
+
 TO_EMAIL=seu_email@gmail.com
 
 Executar:
