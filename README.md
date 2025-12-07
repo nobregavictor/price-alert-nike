@@ -20,8 +20,7 @@ e envia um e-mail quando o valor fica abaixo de um preço alvo definido no `.env
    source venv/bin/activate  # Mac/Linux
 Instale as dependências:
 
-bash
-Copiar código
+
 pip install -r requirements.txt
 Crie um arquivo .env na raiz com:
 env
