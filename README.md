@@ -2,6 +2,8 @@
 
 Script em Python que monitora o preço da camisa da seleção brasileira no site da Nike
 e envia um e-mail quando o valor fica abaixo de um preço alvo definido no `.env`.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f019982-1383-440e-9526-c5dbf891c493" />
+
 
 ## Tecnologias
 
